@@ -1,0 +1,3 @@
+# corejava
+In the Java Community Process, the Expert Group disbands after Final Release. The Maintenance Lead then takes over the long-term maintenance of the specification, Reference Implementation, and Technology Compatibility Kit. Minor changes to the specification go through a Maintenance process, while major changes are deferred to a new JSR. In Maintenance, the Maintenance Lead tracks issues for the specification in the Issue List and then, when enough minor changes are ready, the Maintenance Lead proposes a list of changes to the specification in a Change Log, which is then posted for Maintenance Review.
+
